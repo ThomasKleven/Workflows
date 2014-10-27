@@ -8,5 +8,9 @@
     "url": "?.git"
   },
   "author": "thomas_kleven",
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.8.9",
+    "gulp-util": "~3.0.1"
+  }
 }
